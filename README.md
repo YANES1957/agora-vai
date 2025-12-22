@@ -1,7 +1,27 @@
-# Agora Vai 💪😉
+# 🚀 Agora Vai
 
-O Agora Vai é uma aplicação focada em apoiar a saúde mental e o bem-estar no trabalho de profissionais de tecnologia.
+API Spring Boot com front-end simples e testes automatizados.
 
-Ele ajuda a sair da procrastinação, reduzir estresse e manter foco ao longo do dia por meio de pequenos passos, pausas inteligentes e inteligência artificial controlada.
+## 🔧 Tecnologias
+- Java 21
+- Spring Boot 3
+- Maven
+- JUnit 5
+- MockMvc
 
-> Este projeto não substitui acompanhamento profissional de saúde mental.
+## ▶ Rodar aplicação
+```bash
+./mvnw spring-boot:run
+```
+
+Acesse: http://localhost:8080
+
+## 🧪 Rodar testes
+```bash
+./mvnw test
+```
+
+## 📡 Endpoint
+```
+GET /api/status/{nome}
+```
