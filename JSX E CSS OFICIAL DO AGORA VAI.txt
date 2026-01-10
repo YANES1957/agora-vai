@@ -1,3 +1,5 @@
+JSX OFICIAL
+
 
 import { BrowserRouter, Routes, Route, useNavigate } from "react-router-dom";
 import { useState, createContext, useContext, useRef, useEffect } from "react";
@@ -302,3 +304,52 @@ export default function App() {
 }
 
 
+CSS OFICIAL
+
+
+
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body, #root, .app { width:100%; height:100%; font-family:Arial,sans-serif; }
+
+.app.dark { background: radial-gradient(circle at top, #0a1a3a, #020617); }
+.app.light { background: #ffffff; }
+
+.page { min-height:100vh; background:inherit; padding:40px 20px 100px; display:flex; flex-direction:column; align-items:center; }
+.center { justify-content:center; }
+
+.page-title { color:#a855f7; font-size:2.6rem; margin-bottom:24px; text-shadow:0 0 20px #d8b4fe; }
+.home-title { font-size:3.2rem; margin-bottom:16px; }
+.purple-text { color:#a855f7; text-shadow:0 0 10px #a855f7,0 0 20px #d8b4fe,0 0 40px rgba(216,180,254,0.8); }
+.home-astronaut { width:340px; margin:24px 0; }
+.home-buttons { display:flex; flex-direction:column; gap:16px; }
+
+.btn { width:280px; padding:16px; border-radius:16px; border:none; font-weight:bold; cursor:pointer; }
+.neon { box-shadow:0 0 20px currentColor,0 0 40px rgba(216,180,254,0.6); }
+
+.purple { background:#a855f7; color:white; }
+.blue { background:#38bdf8; }
+.green { background:#4ade80; }
+.yellow { background:#fde047; }
+.pink { background:#f472b6; }
+.orange { background:#fb923c; }
+.red { background:#ef4444; color:white; }
+.lightblue { background:#3abff8; color:white; }
+
+.small { font-size:0.8rem; padding:10px; }
+
+.activity-groups { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:16px; margin-top:20px; width:100%; max-width:700px; }
+.activity-group { background:rgba(255,255,255,0.06); padding:12px; border-radius:14px; text-align:center; box-shadow:0 0 20px rgba(216,180,254,0.15); }
+.activity-group h4 { margin-bottom:10px; color:#86efac; }
+
+.side-box { position:fixed; right:20px; top:50%; transform:translateY(-50%); background:#a855f7; padding:20px; border-radius:16px; color:white; box-shadow:0 0 30px #d8b4fe; z-index:10; }
+.side-timer { font-size:2rem; margin-top:10px; text-align:center; }
+
+.message { top:70%; }
+
+.footer { position:fixed; bottom:20px; }
+
+.personalizar-container { display:flex; align-items:center; gap:20px; }
+.personalizar-centro { display:flex; flex-direction:column; gap:12px; }
+.circle { width:70px; height:70px; border-radius:50%; font-size:2rem; }
+
+.tema-buttons { display:flex; flex-direction:column; gap:12px; margin-top:20px; }
