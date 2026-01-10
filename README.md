@@ -6,7 +6,7 @@ O **Agora Vai** é uma aplicação voltada para pessoas que passam longos perío
 - Profissionais de escritório
 - Pessoas em home office
 - Estudantes
-- Qualquer pessoa que busca melhorar saúde, foco e produtividade no dia a dia
+- Qualquer pessoa que busca melhorar saúde, foco e produtividade no dia a dia.
 
 A aplicação foi criada para incentivar hábitos saudáveis de forma simples, prática e acessível, contribuindo para o **bem-estar físico e mental** do usuário.
 
@@ -53,6 +53,7 @@ O usuário pode:
 Na página **Vamos alongar o corpo?**, o usuário pode:
 
 - Escolher opções de alongamentos e atividades físicas
+- Cada opção de alongamento tem um botão Youtube, redirecionando o usuário para um link com tutoriais de cada tipo de alongamento no Youtube.
 - Selecionar diferentes tempos para cada atividade
 - Iniciar um cronômetro
 
@@ -181,4 +182,4 @@ Toda atualização enviada ao GitHub gera um novo deploy automaticamente.
 
 ---
 
-O **Agora Vai** é uma aplicação simples, prática e funcional, criada para beneficiar o usuário física e mentalmente, promovendo bem-estar, foco e boa produtividade no dia a dia 🚀
+O **Agora Vai** é uma aplicação autoral, simples, prática e funcional, criada para beneficiar o usuário física e mentalmente, promovendo bem-estar, foco e boa produtividade no dia a dia. 🚀
