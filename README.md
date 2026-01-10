@@ -1,185 +1,277 @@
-🔵 Agora Vai – Aplicação de Bem-Estar e Produtividade 🚀
+🔵 **Agora Vai – Aplicação de Bem-Estar, Produtividade e Automação.** 
 
-O **Agora Vai** é uma aplicação voltada para pessoas que passam longos períodos sentadas ou em frente ao computador, como:
+**O Agora Vai é uma aplicação voltada para pessoas que passam longos períodos sentadas ou em frente ao computador, como:**
 
-- Profissionais de tecnologia
-- Profissionais de escritório
-- Pessoas em home office
-- Estudantes
-- Qualquer pessoa que busca melhorar saúde, foco e produtividade no dia a dia.
+Profissionais de tecnologia
 
-A aplicação foi criada para incentivar hábitos saudáveis de forma simples, prática e acessível, contribuindo para o **bem-estar físico e mental** do usuário.
+Profissionais de escritório
 
----
+Pessoas em home office
 
-## 🎯 Objetivo da Aplicação
+Estudantes
 
-O objetivo do **Agora Vai** é ajudar o usuário a:
-- Lembrar de beber água
-- Fazer pausas para alongamento e atividade física
-- Reduzir o estresse
-- Manter o foco e a produtividade
-- Cuidar da saúde mental durante a rotina de trabalho ou estudo
+Qualquer pessoa que busca melhorar saúde, foco e produtividade no dia a dia
 
-Tudo isso por meio de lembretes, cronômetros, conteúdos de apoio e personalização da experiência.
+**A aplicação foi criada para incentivar hábitos saudáveis de forma simples, prática e acessível, contribuindo para o bem-estar físico, mental e produtivo do usuário**.
 
----
+🎯 **Objetivo da Aplicação**
 
-## 🧭 Funcionalidades Principais
+O objetivo do Agora Vai é ajudar o usuário a:
 
-### 📋 Menu Principal
-A aplicação possui um **menu central**, onde o usuário pode acessar todas as funcionalidades disponíveis de forma rápida e intuitiva.
+Lembrar de beber água
 
----
+Fazer pausas para alongamento e atividade física
 
-### 💧 Botão “Água” – Hora de Beber Água
-Na página **Hora de beber água**, o usuário pode:
+Reduzir o estresse
 
-- Escolher entre diferentes opções de tempo
-- Iniciar um cronômetro
-- Ao final do tempo estabelecido:
-  - O cronômetro é finalizado
-  - Um **sinal sonoro** é emitido
-  - Uma mensagem é exibida:  
-    **“Você gostaria de beber água novamente?”**
+Manter o foco e a produtividade
 
-O usuário pode:
-- Alterar o tempo a qualquer momento
-- Reiniciar o cronômetro automaticamente ao mudar a opção de tempo
+Cuidar da saúde mental durante a rotina de trabalho ou estudo
 
----
+Tudo isso por meio de lembretes inteligentes, cronômetros, conteúdos de apoio e personalização da experiência.
 
-### 🧘‍♂️ Botão “Atividades Físicas” – Vamos Alongar o Corpo?
-Na página **Vamos alongar o corpo?**, o usuário pode:
+🧭 **Funcionalidades Principais**
+📋 Menu Principal
 
-- Escolher opções de alongamentos e atividades físicas
-- Cada opção de alongamento tem um botão Youtube, redirecionando o usuário para um link com tutoriais de cada tipo de alongamento no Youtube.
-- Selecionar diferentes tempos para cada atividade
-- Iniciar um cronômetro
+**Menu centralizado, intuitivo e personalizável, permitindo acesso rápido a todas as funcionalidades da aplicação.**
 
-Ao final de qualquer atividade:
-- O cronômetro é finalizado
-- Uma mensagem é exibida:  
-  **“Parabéns! Atividade física realizada.”**
+💧 **Botão “Água” – Hora de Beber Água**
 
-Assim como na página de água:
-- O usuário pode mudar o tempo a qualquer momento
-- O cronômetro é zerado e reiniciado automaticamente
+Na página Hora de beber água, o usuário pode:
 
----
+Escolher diferentes opções de tempo
 
-### 🧠 Saúde Mental e Conteúdos Educativos
-A aplicação oferece dicas e conteúdos por meio de botões que redirecionam para plataformas externas:
+Iniciar um cronômetro
 
-#### 🔹 Saúde Mental
-- YouTube: vídeos
-- Spotify: podcasts
-- Gemini: links para sites sobre o tema
+Receber alerta sonoro ao final do tempo
 
-#### 🔹 Tecnologia
-- YouTube: vídeos
-- Spotify: podcasts
-- Gemini: links para sites sobre tecnologia
+Visualizar a mensagem:
 
----
+“Você gostaria de beber água novamente?”
 
-### 🎧 ASMR e Músicas Relaxantes
-Para relaxamento e redução do estresse, a aplicação conta com:
+É é emitido um aviso sonoro quando finaliza o contador.
 
-#### 🔹 ASMR
-- YouTube: vídeos
-- Spotify: playlists gratuitas
-- Gemini: sites sobre ASMR
 
-#### 🔹 Músicas Relaxantes
-- YouTube: vídeos
-- Spotify: playlists gratuitas
-- Gemini: sites relacionados
+**Funcionalidades adicionais:**
 
----
+Alteração de tempo a qualquer momento
 
-### ⚙️ Personalização
-A aplicação possui um botão **Personalizar**, onde o usuário pode:
+Reinício automático do cronômetro ao trocar a opção
 
-- Adicionar funcionalidades ao menu
-- Remover funcionalidades do menu
-- Adaptar a aplicação de acordo com suas necessidades pessoais
 
----
+🧘‍♂️ **Botão “Atividades Físicas” – Vamos Alongar o Corpo?**
 
-### 🎨 Configurações
+Na página Vamos alongar o corpo?, o usuário pode:
+
+Escolher diferentes alongamentos e atividades físicas
+
+Acessar botões do YouTube, com tutoriais específicos para cada alongamento
+
+Definir tempos personalizados
+
+Iniciar cronômetros por atividade
+
+Ao final da atividade:
+
+O cronômetro é finalizado
+
+Exibe a mensagem:
+
+“Parabéns! Atividade física realizada.”
+
+E é emitido um aviso sonoro quando o cronometro é finalizado.
+
+Assim como na funcionalidade de água:
+
+O tempo pode ser alterado a qualquer momento
+
+O cronômetro reinicia automaticamente
+
+
+🧠 **Saúde Mental (Conteúdos Educativos)**
+
+A aplicação oferece acesso rápido a conteúdos externos de qualidade, organizados por tema:
+
+🔹 **Saúde Mental**
+
+YouTube: vídeos
+
+Spotify: podcasts
+
+Gemini: links e artigos especializados
+
+🔹 **Tecnologia**
+
+YouTube: vídeos
+
+Spotify: podcasts
+
+Gemini: conteúdos educacionais e técnicos
+
+🎧 ASMR e Músicas Relaxantes
+
+Para relaxamento e redução do estresse:
+
+🔹 **ASMR**
+
+YouTube: vídeos
+
+Spotify: playlists gratuitas
+
+Gemini: sites informativos
+
+🔹 **Músicas Relaxantes**
+
+YouTube: vídeos
+
+Spotify: playlists
+
+Gemini: conteúdos relacionados
+
+
+⚙️ **Personalização da Experiência**
+
+A funcionalidade do botão Personalizar permite que o usuário:
+
+Adicione funcionalidades ao menu
+
+Remova funcionalidades que não utiliza
+
+Monte a aplicação conforme sua rotina pessoal
+
+
+🎨 **Configurações**
+
 Na área de configurações, o usuário pode:
 
-- Alternar entre **tema claro** e **tema escuro**
-- Ajustar a interface de acordo com o ambiente e preferência visual
+Alternar entre tema claro e tema escuro
 
----
+Ajustar a interface conforme preferência visual e ambiente
 
-## 🏗️ Arquitetura do Projeto
 
-Este projeto foi desenvolvido como meu **primeiro projeto Full Stack**, contemplando todo o ciclo de desenvolvimento.
+🏗️ **Arquitetura do Projeto**
 
-### 🔹 Backend
-- Java
-- Spring Boot
-- API REST
-- Maven
-- Organização em camadas (controller, service, etc.)
+**Este projeto desenvolvido é meu primeiro projeto Full Stack, cobrindo todo o ciclo de desenvolvimento de software.**
 
-### 🔹 Frontend
-- React
-- Vite
-- JavaScript
-- CSS
-- React Router
+🔹 **Backend**
 
----
+Java
 
-## 🧪 Testes e Qualidade (QA)
+Spring Boot
 
-O projeto também contempla conceitos de qualidade de software, incluindo:
-- Testes unitários
-- Automação de testes
-- Organização voltada para QA
-- Validação dos fluxos principais da aplicação
+API REST
 
----
+Maven
 
-## 🌐 Deploy e Hospedagem
+Arquitetura em camadas (Controller, Service, etc.)
 
-O frontend da aplicação está hospedado na **Vercel**, permitindo acesso fácil, rápido e responsivo em qualquer dispositivo.
 
-🔗 **Acesse o projeto online:**  
-👉 https://agora-vai-ten-mu.vercel.app
+🔹 **Front-end**
 
-Toda atualização enviada ao GitHub gera um novo deploy automaticamente.
+React
 
----
+Vite
 
-## 🛠️ Tecnologias Utilizadas
+JavaScript
 
-- Java
-- Spring Boot
-- Maven
-- React
-- Vite
-- JavaScript
-- CSS
-- Git
-- GitHub
-- Vercel
-- Testes Unitários
-- Automação de Testes
-- QA
+CSS
 
----
+React Router
 
-## 📱 Compatibilidade
 
-- ✅ Desktop
-- ✅ Mobile
-- ✅ Tablet
+🤖 **Inteligência Artificial, Prompts e Automação**
 
----
+**O projeto Agora Vai também utiliza conceitos de Inteligência Artificial como apoio ao desenvolvimento, com foco em produtividade, qualidade e automação.**
 
-O **Agora Vai** é uma aplicação autoral, simples, prática e funcional, criada para beneficiar o usuário física e mentalmente, promovendo bem-estar, foco e boa produtividade no dia a dia. 🚀
+🔹 **Uso de IA e Prompt Engineering**
+
+Criação e refinamento de prompts de comando para:
+
+Organização de código
+
+Refatoração
+
+Criação de componentes
+
+Padronização de boas práticas
+
+Apoio na análise de fluxos e regras de negócio
+
+
+
+🔹 **IA aplicada à Qualidade (QA)**
+
+Uso de IA como suporte à:
+
+Criação de cenários de teste
+
+Validação de fluxos críticos
+
+Simulação de comportamento do usuário
+
+Mentalidade orientada à prevenção de bugs e melhoria contínua
+
+🧪 Testes e Qualidade (QA)
+
+O projeto contempla conceitos sólidos de qualidade de software:
+
+Testes unitários
+
+Automação de testes
+
+Organização orientada a QA
+
+Validação dos fluxos principais da aplicação
+
+Boas práticas de versionamento e deploy contínuo
+
+
+🌐 **Deploy e Hospedagem**
+
+**O front-end da aplicação está hospedado na Vercel, com deploy contínuo automatizado.**
+**Obs: Toda atualização enviada ao GitHub gera automaticamente um novo deploy no Vercel.**
+
+🔗 **Acesse o projeto online:**
+👉 https://agora-vai-frontend.vercel.app
+
+
+🛠️ **Tecnologias Utilizadas**
+
+Java
+
+Spring Boot
+
+Maven
+
+React
+
+Vite
+
+JavaScript
+
+CSS
+
+Git
+
+GitHub
+
+Vercel
+
+Testes Unitários
+
+Automação de Testes
+
+QA
+
+Inteligência Artificial (IA)
+
+Prompt Engineering
+
+
+📱 **Compatibilidade**
+
+✅ Desktop
+✅ Mobile
+✅ Tablet
+
+**O Agora Vai é uma aplicação autoral, simples, prática e funcional, desenvolvida com foco em bem-estar, produtividade, qualidade de software e boas práticas modernas de desenvolvimento, unindo tecnologia, saúde e automação**. 🚀
