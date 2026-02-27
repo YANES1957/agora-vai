@@ -1,0 +1,11 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body, #root, .app { width:100%; height:100%; font-family:Arial,sans-serif; }
+
+.page { min-height:100vh; background:inherit; padding:40px 20px 100px; display:flex; flex-direction:column; align-items:center; }
+.page-title { color:#a855f7; font-size:2.6rem; margin-bottom:24px; text-shadow:0 0 20px #d8b4fe; }
+.btn { width:280px; padding:16px; border-radius:16px; border:none; font-weight:bold; cursor:pointer; }
+.neon { box-shadow:0 0 20px currentColor,0 0 40px rgba(216,180,254,0.6); }
+.blue { background:#38bdf8; }
+.green { background:#4ade80; }
+.small { font-size:0.8rem; padding:10px; }
+/* ... resto do CSS ... */
