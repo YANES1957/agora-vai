@@ -30,3 +30,5 @@ GET /api/status/{nome}
 ```
 Commit Verified
 Commit Verified
+
+Acesso ao aplicativo: 
