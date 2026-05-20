@@ -118,8 +118,8 @@ agora-vai/
 │   └── package.json
 │
 └── README.md
+
 📌 Deploy
-Frontend: Vercel
 https://agora-vai-frontend.vercel.app/
 
 GitHub:
@@ -130,8 +130,9 @@ https://github.com/robertocyanes/agora-vai.git
 Este projeto representa minha evolução como:
 
 Desenvolvedor Backend Java
-Profissional de QA (Qualidade de Software)
-Entusiasta de experiência do usuário
+Analista de QA (Quality Assurance)
+
+Sendo meu primeiro aplicativo Full Stack em melhoria e em experiência de usuário
 
 Foi construído como um projeto real de portfólio, integrando desenvolvimento, testes e produto.
 
