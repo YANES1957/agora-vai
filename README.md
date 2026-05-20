@@ -2,7 +2,8 @@
 
 API Spring Boot com front-end simples e testes automatizados.
 
-## 🔧 Tecnologias
+## About
+🔵 Tecnologias
 - Java 21
 - Spring Boot 3
 - Maven
@@ -16,12 +17,14 @@ API Spring Boot com front-end simples e testes automatizados.
 
 Acesse: http://localhost:8080
 
-## 🧪 Rodar testes
+## About
+🔵 Rodar testes
 ```bash
 ./mvnw test
 ```
 
-## 📡 Endpoint
+## About
+🔵 Endpoint
 ```
 GET /api/status/{nome}
 ```
