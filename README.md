@@ -46,7 +46,7 @@ O projeto foi desenvolvido com foco em qualidade desde o início:
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🔵 Stack Tecnológica
 
 ### Backend
 - Java 21
